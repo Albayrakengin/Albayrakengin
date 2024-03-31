@@ -1,6 +1,6 @@
 
 #                           Hi 👋  I'm Engin
-### Software Development Enthusiast and 3rd Year Computer Engineering Student
+### Data Enthusiast and 3rd Year Computer Engineering Student
 
 
 ## 🌐 Socials:
